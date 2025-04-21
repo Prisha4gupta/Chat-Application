@@ -49,9 +49,14 @@ This project is a modern messaging platform with:
 
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/f6244999-2e76-44ae-8955-159ba1198f72)
+![image](https://github.com/user-attachments/assets/f6244999-2e76-44ae-8955-159ba1198f72) 
+Login page
+
 ![image](https://github.com/user-attachments/assets/b577c176-e643-4ced-aadb-d0dca35f0afb)
+Global Chat Interface
+
 ![image](https://github.com/user-attachments/assets/df9f013b-c5f8-4087-827f-a75f999193b9)
+DM view
 
 
    
